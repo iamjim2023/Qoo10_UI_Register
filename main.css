@@ -117,7 +117,6 @@ button{
 }
 .c-text{
     position: relative;
-    left: 1230px;
     bottom: -38px;
     color: gray;
     left: 430px;
@@ -156,9 +155,8 @@ button{
 }
 .f-text{
     position: relative;
-    bottom:  495px;
-    left: 795px;
-    background-color: #FFF;
+    bottom:  -21px;
+    left: 298px;
 }
   ul {
     margin: 0;
@@ -197,3 +195,11 @@ button{
     left: -98px;
     bottom: 42px;
   }
+  .k-text{
+    position: relative;
+    left: 150px;
+    bottom: 204px;
+    color: gray;
+    font-size: 17px;
+    font-weight: lighter;
+}
