@@ -158,10 +158,11 @@ button{
 /* practice */
 .f-text{
     position: absolute;
-    padding: 0;
-    bottom:  158px;
-    left: 646px;
+    padding: 1;
+    bottom:  116px;
+    left: 844px;
     background-color: #fff;
+    transform: translate(-50%, -50%);
 }
   ul {
     margin: 0;
@@ -175,7 +176,7 @@ button{
     text-align: center;
   }
   ul li .first {
-    border-right: 1px solid #000;
+    border-right: 1px solid grey;
     position: relative;
     height: 400px;
     bottom: 150px;
@@ -188,6 +189,6 @@ button{
       width: 30px;
       height: 30px;
       border-radius: 50%;
-      border: 1px solid #000;
+      border: 1px solid grey;
       background: inherit;
   }
