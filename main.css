@@ -143,6 +143,18 @@ button{
     font-weight: lighter;
 }
 
+.line2 {
+    position: relative;
+    bottom: 0px;
+    left:125px;
+}
+
+.line3 {
+    position: relative;
+    bottom: 0px;
+    left:125px;
+}
+
 /* practice */
   ul {
     margin: 0;
@@ -154,21 +166,22 @@ button{
     float: left;
     padding: 16px;
     text-align: center;
-    background: #fff;
   }
   ul li .first {
     border-right: 1px solid #000;
     position: relative;
-    
+    height: 400px;
+    bottom: 150px;
   }
   ul li .first::after {
-        content: '';
+      content: '';
       position: absolute;
-      bottom: 20px;
+      bottom: 150px;
       right: -16px;
       width: 30px;
       height: 30px;
       border-radius: 50%;
       border: 1px solid #000;
       background: inherit;
+      background-color: #fff;
   }
