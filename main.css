@@ -143,13 +143,11 @@ button{
     font-size: 18px;
     font-weight: lighter;
 }
-
 .line2 {
     position: relative;
     bottom: 0px;
     left:125px;
 }
-
 .line3 {
     position: relative;
     bottom: 0px;
@@ -236,7 +234,7 @@ button{
 }
 .m-text{
     position: relative;
-    left: -300px;
+    left: -295px;
     bottom: 220px;
     font-size: 17px;
     font-weight: lighter;
@@ -259,6 +257,6 @@ button{
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-    left:-620px;
-    bottom: 260px;
+    left:-660px;
+    bottom: 258px;
 }
