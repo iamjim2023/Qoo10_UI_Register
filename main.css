@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+}
+/* Top Panel */
+.f-container img{
+    height: 60px;
+    width: 150px;
+    position: relative;
+    left: 500px;
+    bottom: -35px;
+}
+.a-text{
+    position: relative;
+    left: 660px;
+    bottom: -3px;
+}
+.g-container img{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 1200px;
+    bottom: 16px;
+}
+.b-text{
+    position: relative;
+    left: 1230px;
+    bottom: 38px;
+}
+.h-container img{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 1325px;
+    bottom: 56px;
+}
+
+/* Next Panel */
+button{
+    position: relative;
+    border: none;
+    background-color: blue;
+    color: white;
+    width: 150px;
+    display: block;
+    padding: 11px 0;
+    font-weight: bold;
+    cursor: pointer;
+    left: 500px;
+}
+.btn2{
+    position: relative;
+    border: none;
+    background-color: #3C79F5;
+    color: white;
+    width: 150px;
+    display: block;
+    padding: 11px 0;
+    font-weight: bold;
+    cursor: pointer;
+    left: 650px;
+    top: -37px;
+}
+.btn3{
+    position: relative;
+    border: none;
+    background-color: #3C79F5;
+    color: white;
+    width: 150px;
+    display: block;
+    padding: 11px 0;
+    font-weight: bold;
+    cursor: pointer;
+    left: 1220px;
+    top: -74px;
+}
+/* Center Panel */
+.btn4{
+    position: relative;
+    border: none;
+    background-color: white;
+    color: black;
+    width: 140px;
+    display: block;
+    padding: 11px 0;
+    font-weight: bold;
+    cursor: pointer;
+    left: 400px;
+}
+.btn5{
+    position: relative;
+    border: none;
+    background-color: white;
+    color: black;
+    width: 140px;
+    display: block;
+    padding: 11px 0;
+    font-weight: lighter;
+    cursor: pointer;
+    left: 540px;
+    top: -37px;
+}
+.btn6{
+    position: relative;
+    border: none;
+    background-color: white;
+    color: black;
+    width: 140px;
+    display: block;
+    padding: 11px 0;
+    font-weight: lighter;
+    cursor: pointer;
+    left: 660px;
+    top: -74px;
+}
+.c-text{
+    position: relative;
+    left: 1230px;
+    bottom: -38px;
+    color: gray;
+    left: 430px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.d-text{
+    position: relative;
+    left: 1230px;
+    bottom: -20px;
+    color: gray;
+    left: 430px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.e-text{
+    position: relative;
+    left: 1230px;
+    bottom: -20px;
+    color: gray;
+    left: 430px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.vl {
+    border-left: 1px solid;
+    height: 400px;
+    position: relative;
+    left: 50%;
+    margin-left: -3px;
+    top: -168px;
+  }
