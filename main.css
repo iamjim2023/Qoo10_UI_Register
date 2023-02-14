@@ -278,3 +278,32 @@ button{
     left:10px;
     bottom:230px;
 }
+.new_regs{
+    position: relative;
+    left: 560px;
+    bottom: 244px;
+    font-weight: lighter;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.r-container{
+    position: relative;
+    left: 722px;
+    bottom: 279px;
+    cursor: pointer;
+}
+.fnd_email{
+    position: relative;
+    bottom: 220px;
+    left: 460px;
+}
+.fnd_pass{
+    position: relative;
+    bottom: 238px;
+    left: 570px;
+}
+.fnd_prb{
+    position: relative;
+    bottom: 256px;
+    left: 668px;
+}
