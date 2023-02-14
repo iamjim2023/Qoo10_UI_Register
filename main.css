@@ -142,11 +142,33 @@ button{
     font-size: 18px;
     font-weight: lighter;
 }
-.vl {
-    border-left: 1px solid;
-    height: 400px;
+
+/* practice */
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  ul li div {
+    width: 47%;
+    float: left;
+    padding: 16px;
+    text-align: center;
+    background: #fff;
+  }
+  ul li .first {
+    border-right: 1px solid #000;
     position: relative;
-    left: 50%;
-    margin-left: -3px;
-    top: -168px;
+    
+  }
+  ul li .first::after {
+        content: '';
+      position: absolute;
+      bottom: 20px;
+      right: -16px;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      border: 1px solid #000;
+      background: inherit;
   }
