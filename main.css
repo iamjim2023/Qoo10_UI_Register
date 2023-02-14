@@ -155,7 +155,7 @@ button{
 }
 .f-text{    
     position: absolute;
-    top: 150px;
+    top: 160px;
     left: 1154px;
     margin-top: -17px;
     border: 2px solid #ededed;
@@ -191,12 +191,12 @@ button{
   }
   .j-container{
     position: relative;
-    left: -98px;
-    bottom: 42px;
+    left: -100px;
+    bottom: 26px;
   }
   .k-text{
     position: relative;
-    left: 150px;
+    left: 170px;
     bottom: 204px;
     color: gray;
     font-size: 17px;
@@ -205,31 +205,31 @@ button{
 .l-container{
     position: relative;
     bottom: 180px;
-    left: 108px;
+    left: 110px;
     cursor: pointer;
 }
 .m-container{
     position: relative;
     bottom: 212px;
-    left: 168px;
+    left: 178px;
     cursor: pointer;
 }
 .n-container{
     position: relative;
     bottom: 246px;
-    left: 228px;
+    left: 248px;
     cursor: pointer;
 }
 .o-container{
     position: relative;
     bottom: 282px;
-    left: 288px;
+    left: 318px;
     cursor: pointer;
 }
 .p-container{
     position: relative;
     bottom: 319px;
-    left: 348px;
+    left: 388px;
     cursor: pointer;
 }
 .m-text{
@@ -259,4 +259,8 @@ button{
     text-align: center;
     left:-660px;
     bottom: 258px;
+}
+.chkbox{
+    position:relative;
+    
 }
