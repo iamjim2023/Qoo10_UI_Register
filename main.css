@@ -154,15 +154,11 @@ button{
     bottom: 0px;
     left:125px;
 }
-
-/* practice */
 .f-text{
-    position: absolute;
-    padding: 1;
-    bottom:  116px;
-    left: 844px;
-    background-color: #fff;
-    transform: translate(-50%, -50%);
+    position: relative;
+    bottom:  495px;
+    left: 795px;
+    background-color: #FFF;
 }
   ul {
     margin: 0;
@@ -172,14 +168,14 @@ button{
   ul li div {
     width: 47%;
     float: left;
-    padding: 16px;
+    padding: 0px;
     text-align: center;
   }
   ul li .first {
     border-right: 1px solid grey;
     position: relative;
     height: 400px;
-    bottom: 150px;
+    bottom: 150px; 
   }
   ul li .first::after {
       content: '';
@@ -191,4 +187,13 @@ button{
       border-radius: 50%;
       border: 1px solid grey;
       background: inherit;
+  }
+  .i-container{
+    position: relative;
+    left: -310px;
+  }
+  .j-container{
+    position: relative;
+    width: 100%;
+    height: 400px;
   }
