@@ -262,5 +262,19 @@ button{
 }
 .chkbox{
     position:relative;
-    
+    left: 500px;
+    bottom: 244px;
+}
+.chkbox_txt{
+    position:relative;
+    left: 520px;
+    font-size: 13.5px;
+    bottom: 262px;
+}
+.ly_area {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    left:10px;
+    bottom:230px;
 }
