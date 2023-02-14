@@ -137,7 +137,7 @@ button{
 .e-text{
     position: relative;
     left: 1230px;
-    bottom: -20px;
+    bottom: -10px;
     color: gray;
     left: 430px;
     font-size: 18px;
@@ -188,6 +188,7 @@ button{
   .i-container{
     position: relative;
     left: -310px;
+    bottom: 4px;
   }
   .j-container{
     position: relative;
@@ -306,4 +307,93 @@ button{
     position: relative;
     bottom: 256px;
     left: 668px;
+}
+.Qoo10_memb{
+    position: relative;
+    left: 500px;
+    bottom: 110px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.evr_Qoo10{
+    position: relative;
+    left: 480px;
+    bottom: 80px;
+    font-weight: lighter;
+    font-size: 18px;
+    color: #5881ec;
+}
+.shp_tips{
+    position: relative;
+    left: 910px;
+    bottom: 103px;
+    font-weight: lighter;
+    font-size: 18px;
+    color: #5881ec;
+}
+.btn8{
+    position: relative;
+    left: 480px;
+    bottom: 80px;
+    background-color: #fff;
+    color: #5881ec;
+    font-weight: lighter;
+    border: 1px solid;
+    width: 120px;
+}
+.btn9{
+    position: relative;
+    left: 610px;
+    bottom: 119px;
+    background-color: #fff;
+    color: #5881ec;
+    font-weight: lighter;
+    border: 1px solid;
+    width: 120px;
+}
+.btn10{
+    position: relative;
+    left: 740px;
+    bottom: 158px;
+    background-color: #fff;
+    color: #5881ec;
+    font-weight: lighter;
+    border: 1px solid;
+    width: 120px;
+}
+.btn11{
+    position: relative;
+    left: 910px;
+    bottom: 205px;
+    background-color: #5881ec;
+    color: #fff;
+    font-weight: lighter;
+    border: 1px solid;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+}
+.btn12{
+    position: relative;
+    left: 1040px;
+    bottom: 255px;
+    background-color: #5881ec;
+    color: #fff;
+    font-weight: lighter;
+    border: 1px solid;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+}
+.btn13{
+    position: relative;
+    left: 1170px;
+    bottom: 305px;
+    background-color: #5881ec;
+    color: #fff;
+    font-weight: lighter;
+    border: 1px solid;
+    width: 150px;
+    height: 50px;
+    text-align:center;
 }
