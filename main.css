@@ -156,6 +156,13 @@ button{
 }
 
 /* practice */
+.f-text{
+    position: absolute;
+    padding: 0;
+    bottom:  158px;
+    left: 646px;
+    background-color: #fff;
+}
   ul {
     margin: 0;
     padding: 0;
@@ -183,5 +190,4 @@ button{
       border-radius: 50%;
       border: 1px solid #000;
       background: inherit;
-      background-color: #fff;
   }
